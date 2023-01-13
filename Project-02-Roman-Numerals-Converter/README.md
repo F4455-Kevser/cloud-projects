@@ -1,4 +1,4 @@
-# Project-001 : Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation and AWS CLI
+# Project-02 : Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation and AWS CLI
 ## Description
 The Roman Numerals Converter Application aims to convert the given number to the Roman numerals. The application is to be coded in Python and deployed as a web application with Flask on AWS Elastic Compute Cloud (EC2) Instance using AWS Cloudformation and CLI Services. 
 
@@ -83,13 +83,13 @@ Ten         Warning with "Not Valid! Please enter a number between 1 and 3999, i
 
 ```
 001-roman-numerals-converter (folder)
-|----cli.sh            # To be delivered by students (CLI commands)
-|----readme.md         # Given to the students (Definition of the project)          
-|----cfn-template.yml  # To be delivered by students (Cloudformation template)
-|----app.py            # Given to the students (Definition of the project)          
+|----cli.sh            # Requested (CLI commands)
+|----readme.md         # (Definition of the project)          
+|----cfn-template.yml  # Requested (Cloudformation template)
+|----app.py            # (Definition of the project)          
 |----templates
-        |----index.html  # Given to the students (HTML template)
-        |----result.html # Given to the students (HTML template)
+        |----index.html  # (HTML template)
+        |----result.html # (HTML template)
 ```
 
 ## Expected Outcome
@@ -120,7 +120,7 @@ Ten         Warning with "Not Valid! Please enter a number between 1 and 3999, i
 
 - Git & Github for Version Control System
 
-### At the end of the project, students will be able to;
+### At the end of the project, your will be able to;
 
 - improve coding skills using iterables(dict), operators, for-loop, if statements and functions within Python
 
@@ -140,7 +140,7 @@ Ten         Warning with "Not Valid! Please enter a number between 1 and 3999, i
 
 ## Steps to Solution
   
-- Step 1: Download or clone project definition from `clarusway-aws-workshop` repo on Github 
+- Step 1: Download or clone project definition from `F4455-Kevser` repo on Github 
 
 - Step 2: Create project folder for local public repo on your pc
 
